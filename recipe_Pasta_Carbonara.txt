@@ -1,0 +1,10 @@
+RECIPE: Pasta Carbonara
+========================================
+Category: LUNCH
+Cooking Time: 30 minutes
+INGREDIENTS:
+- Pasta: 200.0 g
+- Eggs: 2.0 piece
+- Bacon: 150.0 g
+TAGS: comfort-food,italian,quick
+========================================

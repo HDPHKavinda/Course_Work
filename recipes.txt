@@ -1,0 +1,40 @@
+===RECIPE===
+ID:RCP001
+NAME:Pasta Carbonara
+CATEGORY:LUNCH
+TIME:00:30
+INGREDIENTS:Pasta,200,g|Eggs,2,piece|Bacon,150,g
+TAGS:italian,quick,comfort-food
+===END===
+===RECIPE===
+ID:RCP002
+NAME:Banana Pancakes
+CATEGORY:BREAKFAST
+TIME:00:25
+INGREDIENTS:Banana,2,piece|Flour,150,g|Milk,200,ml|Eggs,1,piece
+TAGS:breakfast,sweet,quick
+===END===
+===RECIPE===
+ID:RCP003
+NAME:Chicken Curry
+CATEGORY:DINNER
+TIME:01:00
+INGREDIENTS:Chicken,500,g|Curry Powder,20,g|Onion,1,piece|Coconut Milk,400,ml
+TAGS:spicy,comfort-food,dinner
+===END===
+===RECIPE===
+ID:RCP004
+NAME:Greek Salad
+CATEGORY:LUNCH
+TIME:00:15
+INGREDIENTS:Cucumber,1,piece|Tomato,2,piece|Feta Cheese,100,g|Olive Oil,30,ml
+TAGS:healthy,vegetarian,quick
+===END===
+===RECIPE===
+ID:RCP005
+NAME:Chocolate Brownies
+CATEGORY:DESSERT
+TIME:00:45
+INGREDIENTS:Chocolate,200,g|Butter,100,g|Flour,120,g|Sugar,150,g|Eggs,2,piece
+TAGS:sweet,baked,comfort-food
+===END===
